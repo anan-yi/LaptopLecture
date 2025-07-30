@@ -4,267 +4,270 @@
   },
   "data": [
     {
-      "brand": "机械革命",
-      "model": "无界14X",
+      "brand": "联想",
+      "model": "ThinkPad E14 2025",
       "screenSize": 14,
-      "thickness": 17.3,
-      "weight": 1.47,
+      "thickness": 20.6,
+      "weight": 1.44,
       "advantages": [
-        "[双2280硬盘位]{.very-good}",
-        "性能释放优秀"
+        "[内外部扩展性较好]{.very-good}",
+        "键盘手感好",
+        "售后不错，一年上门+全球联保"
       ],
       "disadvantages": [
-        "[垃圾QLC固态]{.very-bad}"
+        "[核显性能弱温度高]{.very-bad}",
+        "续航一般"
       ],
       "display": {
         "resolution": "2880x1800",
         "refreshRate": 120,
-        "coverage": "100% sRGB",
-        "brightness": "465nits"
+        "coverage": "100%sRGB",
+        "brightness": "398nits"
       },
-      "cpu": "R7 8845HS",
-      "gpu": "Radeon 780M",
-      "memory": "DDR5 5600 [24G]{.very-good}",
+      "cpu": "酷睿5 220H",
+      "gpu": "Intel Xe",
+      "memory": "DDR5 5200 16G",
       "storage": {
         "type": "NVMe",
         "capacity": "1TB",
-        "interface": "双 2280"
+        "interface": "2280"
       },
-      "price": 4199,
-      "url": "https://item.jd.com/100102892918.html",
-      "image": "/images/recommendation/laptop/igpu/机械革命-无界14X.png"
+      "price": 3999,
+      "url": "https://item.jd.com/100167040923.html",
+      "image": "/images/recommendation/laptop/igpu/ThinkPad.png"
     },
     {
-      "brand": "小米",
-      "model": "Redmi Book 14 2024",
-      "screenSize": 17.2,
+      "brand": "联想",
+      "model": "来酷Pro 14 2025",
+      "screenSize": 14,
       "thickness": 1.36,
-      "weight": null,
+      "weight": 1.47,
       "advantages": [
-        "[双硬盘位]{.good}",
-        "[机身细节做工优秀]{.good}",
-        "性能释放优秀"
+        "[联想 性价比]{.good}",
+        "[扩展性较好]{.good}",
+        "同价位电池容量大"
       ],
       "disadvantages": [
-        "[接口数量、种类少]{.bad}",
-        "[核心温度高]{.bad}",
-        "[键盘面温度高]{.bad}",
-        "[半高方向键]{.attention}"
+        "[风扇噪音大有点乱转]{.bad}",
+        "[屏幕校色问题，过饱和]{.bad}",
+        "[触控板手感一般]{.bad}"
       ],
       "display": {
         "resolution": "2880x1800",
         "refreshRate": 120,
-        "coverage": "100% sRGB",
-        "brightness": "**300nits**"
+        "coverage": "100%sRGB",
+        "brightness": "472nits"
       },
-      "cpu": "[酷睿 i5 13500H]{.bad}",
-      "gpu": "Iris Xe LP 80EU",
-      "memory": "LPDDR5 6400 16G [板载]{.very-bad}",
+      "cpu": "R7 H 255",
+      "gpu": "AMD Radeon 780M",
+      "memory": "DDR5 5600 32G ",
       "storage": {
         "type": "NVMe",
-        "capacity": "512GB",
-        "interface": "2242+2280"
+        "capacity": "1TB",
+        "interface": "2280"
       },
-      "price": 4399,
-      "url": "https://www.mi.com/redmi-books/14-2024/specs",
-      "image": "/images/recommendation/laptop/igpu/小米-Redmi Book 14 2024.png"
+      "price": 3199,
+      "url": "https://item.jd.com/100222895582.html",
+      "image": "/images/recommendation/laptop/igpu/联想来酷.png"
     },
     {
       "brand": "小米",
-      "model": "Redmi Book 16 2024",
+      "model": "Redmi Book Pro 16 2025",
       "screenSize": 16,
-      "thickness": 17.2,
-      "weight": 1.68,
+      "thickness": 18.7,
+      "weight": 1.89,
       "advantages": [
-        "[双硬盘位]{.good}",
-        "[机身细节做工优秀]{.good}",
-        "性能释放优秀"
+        "[屏幕规格高]{.good}",
+        "[电池容量大99Wh]{.good}",
+        "智能互联 AI软件比较完善"
       ],
       "disadvantages": [
-        "USB-C接口数量少",
-        "[核心温度高]{.bad}",
-        "[键盘面温度高]{.bad}",
-        "无数字小键盘"
+        "同尺寸中接口数量少",
+        "[屏幕响应时间较长]{.bad}",
+        "16寸但无数字小键盘"
       ],
       "display": {
-        "resolution": "2560x1600",
+        "resolution": "3072x1920",
         "refreshRate": 120,
-        "coverage": "100% sRGB",
-        "brightness": "[500nits]{.good}"
+        "coverage": "100%DCI-P3",
+        "brightness": "[539nits]{.good}"
       },
-      "cpu": "[酷睿 i5 13500H]{.bad}",
-      "gpu": "Iris Xe LP 80EU",
-      "memory": "LPDDR5 6400 16G [板载]{.very-bad}",
+      "cpu": "酷睿 Ultra 5 225H",
+      "gpu": "Intel Arc 130T",
+      "memory": "LPDDR5x 8400 32G",
       "storage": {
         "type": "NVMe",
-        "capacity": "512GB",
-        "interface": "2242+2280"
+        "capacity": "1TB",
+        "interface": "2280"
       },
-      "price": 4480,
-      "url": "https://www.mi.com/redmi-books/16/specs",
-      "image": "/images/recommendation/laptop/igpu/小米-Redmi Book 16 2024.png"
+      "price": 4999,
+      "url": "https://item.jd.com/100143490685.html",
+      "image": "/images/recommendation/laptop/igpu/小米 Red.png"
     },
     {
-      "brand": "惠普",
-      "model": "星Book Pro 13 2024",
-      "screenSize": 13,
-      "thickness": 17.5,
-      "weight": 1,
+      "brand": "宏基",
+      "model": "非凡Go Air",
+      "screenSize": 14,
+      "thickness": 15.8,
+      "weight": 974,
       "advantages": [
-        "[机身重量轻]{.very-good}"
+        "[满载噪音小]{.very-good}",
+        "同尺寸轻且有一定性价比"
       ],
       "disadvantages": [
-        "[电源键位置反人类]{.bad}",
-        "键盘打字手感差"
+        "[60Hz低刷屏，亮度低]{.bad}",
+        "[质感差，塑料感强]{.bad}"
       ],
       "display": {
-        "resolution": "2560x1600",
+        "resolution": "2240x1400",
         "refreshRate": 60,
-        "coverage": "100% sRGB",
-        "brightness": "400nits"
+        "coverage": "100%sRGB",
+        "brightness": "270nits"
       },
-      "cpu": "R5 8640U",
-      "gpu": "Radeon 760M",
-      "memory": "LPDDR5 16G [板载]{.very-bad}",
+      "cpu": "酷睿5 210H",
+      "gpu": "Intel Xe",
+      "memory": "LPDDR5x 4800 32G",
       "storage": {
         "type": "NVMe",
-        "capacity": "512GB",
-        "interface": "[单 2280]{.bad}"
+        "capacity": "1TB",
+        "interface": "2280"
       },
-      "price": 4499,
-      "url": "https://detail.tmall.com/item.htm?id=733499627107",
-      "image": "/images/recommendation/laptop/igpu/惠普-星Book Pro 13 2024.png"
+      "price": 3759,
+      "url": "https://item.jd.com/100152746305.html",
+      "image": "/images/recommendation/laptop/igpu/宏基非凡Go.png"
+    },
+    {
+      "brand": "联想",
+      "model": "小新Pro 14 GT",
+      "screenSize": 14,
+      "thickness": 18.7,
+      "weight": 1.4,
+      "advantages": [
+        "[双硬盘位+双雷电4接口]{.very-good}",
+        "同尺寸性能释放较为激进"
+      ],
+      "disadvantages": [
+        "[稍有溢价]{.bad}",
+        "[高负载下电源有掉电情况]{.bad}"
+      ],
+      "display": {
+        "resolution": "2880x1800",
+        "refreshRate": 120,
+        "coverage": "100%DCI-P3",
+        "brightness": "544nits"
+      },
+      "cpu": "Ultra 5 225H",
+      "gpu": "Intel Arc 130T",
+      "memory": "LPDDR5x 8533 32G",
+      "storage": {
+        "type": "NVMe",
+        "capacity": "1TB",
+        "interface": "[双 2280]{.good}"
+      },
+      "price": 5039,
+      "url": "https://item.jd.com/100186215392.html",
+      "image": "/images/recommendation/laptop/igpu/联想小新.png"
     },
     {
       "brand": "华硕",
-      "model": "无畏 Pro 15",
-      "screenSize": 15.6,
-      "thickness": 19.6,
-      "weight": 1.54,
+      "model": "灵耀14 Air",
+      "screenSize": 14,
+      "thickness": 13.3,
+      "weight": 1.18,
       "advantages": [
-        "[性价比不错]{.very-good}"
+        "[机身做工好，便捷性强]{.very-good}",
+        "[续航表现较好]{.very-good}",
+        "屏幕素质较高"
       ],
       "disadvantages": [
-        "[单2280硬盘位]{.very-bad}",
-        "屏幕下巴偏大",
-        "键盘非标准配列"
+        "外部接口数少",
+        "高负载下表面温度较高",
+        "高负载下风扇噪音比较尖锐"
       ],
-      "display": {
-        "resolution": "2880x1620",
-        "refreshRate": 120,
-        "coverage": "100% sRGB",
-        "brightness": "600nits"
-      },
-      "cpu": "[酷睿 Ultra 7 155H]",
-      "gpu": "Arc Graphics 核显",
-      "memory": "LPDDR5x-7467 32G [板载]{.very-bad}",
-      "storage": {
-        "type": "NVMe",
-        "capacity": "1TB",
-        "interface": "[单 2280]{.bad}"
-      },
-      "price": 5199,
-      "url": "https://item.jd.com/100087464203.html",
-      "image": "/images/recommendation/laptop/igpu/华硕-无畏 Pro 15.png"
-    },
-    {
-      "brand": "联想",
-      "model": "ThinkBook 14+ 2023 锐龙版",
-      "screenSize": 14,
-      "thickness": 18.3,
-      "weight": 1.4,
-      "advantages": [
-        "[双2280硬盘位]{.very-good}",
-        "[接口数量、种类丰富]{.very-good}",
-        "性能释放优秀"
-      ],
-      "disadvantages": [],
       "display": {
         "resolution": "2880x1800",
-        "refreshRate": 90,
-        "coverage": "100% sRGB",
-        "brightness": "400nits"
+        "refreshRate": 120,
+        "coverage": "100%DCI-P3",
+        "brightness": "[380nits]{.bad}"
       },
-      "cpu": "R7 7840H",
-      "gpu": "Radeon 780M",
-      "memory": "LPDDR5 32G [板载]{.very-bad}",
+      "cpu": "Ultra 7 258V",
+      "gpu": "Intel Arc Graphics 140V",
+      "memory": "LPDDR5x [8533]{.good} 32G",
       "storage": {
         "type": "NVMe",
         "capacity": "1TB",
-        "interface": "双 2280"
+        "interface": "2280"
       },
-      "price": 5299,
-      "url": "https://detail.tmall.com/item.htm?id=702330898000",
-      "image": "/images/recommendation/laptop/igpu/联想-ThinkBook 14+ 2023 锐龙版.png"
+      "price": 7199,
+      "url": "https://item.jd.com/100141453386.html",
+      "image": "/images/recommendation/laptop/igpu/华硕灵耀.png"
     },
     {
       "brand": "联想",
-      "model": "ThinkBook X 2024 镁合金版",
-      "screenSize": 13,
-      "thickness": 14.4,
-      "weight": 1.1,
+      "model": "YOGA Air X",
+      "screenSize": 14,
+      "thickness": 15.5,
+      "weight": 1.24,
       "advantages": [
-        "[键盘面温度低]{.good}",
-        "性能释放优秀"
+        "[有屏下摄像头，屏幕也优秀]{.good}",
+        "键盘手感好，A面玻璃质感"
       ],
       "disadvantages": [
-        "[非对称缺角屏]{.very-bad}适配差，BUG多",
-        "[四周有缝隙]{.very-bad}",
-        "[半高方向键]{.attention}"
+        "[屏下摄像头成像一般]{.bad}",
+        "[扩展性较差]{.very-bad}",
+        "[高负载下，键盘热感面积大]{.attention}"
       ],
       "display": {
-        "resolution": "2880x1920",
+        "resolution": "3840x2400",
         "refreshRate": 120,
-        "coverage": "100% sRGB",
-        "brightness": "500nits"
+        "coverage": "100%DCI-P3",
+        "brightness": "404nits"
       },
-      "cpu": "[酷睿 Ultra 9 185H]{.bad}",
-      "gpu": "Arc Xe LPG 128EU",
-      "memory": "LPDDR5 [8400]{.good} 32G [板载]{.very-bad}",
+      "cpu": "Ultra 7 258V",
+      "gpu": "Intel Arc Graphics 140V",
+      "memory": "LPDDR5x [8533]{.good} 32G",
       "storage": {
         "type": "NVMe",
         "capacity": "1TB",
-        "interface": "[单 2242]{.bad}"
+        "interface": "2242"
       },
-      "price": 9099,
-      "url": "https://www.thinkpad.com/device/thinkbook-x-2024",
-      "image": "/images/recommendation/laptop/igpu/联想-ThinkBook X 2024 镁合金版.png"
+      "price": 12999,
+      "url": "https://item.jd.com/100186215410.html",
+      "image": "/images/recommendation/laptop/igpu/联想-YOGA.png"
     },
     {
       "brand": "苹果",
       "model": "MacBook Pro 14",
-      "screenSize": 14,
+      "screenSize": 14.2,
       "thickness": 15.5,
-      "weight": 1.6,
+      "weight": 1.53,
       "advantages": [
         "[各方面极其优秀]{.very-good}",
         "你是大学生了，记得用你的教育优惠！"
       ],
       "disadvantages": [
-        "[龅牙屏]{.very-bad}",
+        "[刘海屏]{.very-bad}",
         "[系统不兼容多数理工类软件与游戏]{.very-bad}",
-        "[机身较重]{.bad}",
-        "[屏幕存在拖影问题]{.bad}",
-        "[板载硬盘存在隐患]{.bad}",
+        "[丐版散热差，高负载键盘有点烫]{.bad}",
         "[半高方向键]{.attention}"
       ],
       "display": {
         "resolution": "3024x1964",
         "refreshRate": 120,
-        "coverage": "[100% P3]{.very-good}",
+        "coverage": "[100%DisplayP3]{.very-good}",
         "brightness": "[1000nits]{.very-good}"
       },
-      "cpu": "[M3 Pro/M3 Max]{.good}",
-      "gpu": "[M3 Pro/M3 Max]{.good}",
-      "memory": "36/48/128G [板载]{.very-bad}",
+      "cpu": "[M4 Pro/M4 Max]{.good}",
+      "gpu": "[M4 Pro/M4 Max]{.good}",
+      "memory": "24G 统一[板载]{.very-bad}",
       "storage": {
         "type": "NVMe",
-        "capacity": "2/4/8TB",
+        "capacity": "1TB",
         "interface": "[板载]{.very-bad}"
       },
-      "price": 16999,
-      "url": "https://www.apple.com.cn/shop/buy-mac/macbook-pro/MRX33CH",
-      "image": "/images/recommendation/laptop/igpu/苹果-MacBook Pro 14.png"
+      "price": 15249,
+      "url": "https://www.apple.com.cn/macbook-pro/",
+      "image": "/images/recommendation/laptop/igpu/苹果 MacBook Pro 14.png"
     }
   ]
 }

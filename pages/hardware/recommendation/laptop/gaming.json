@@ -10,198 +10,206 @@
   },
   "data": [
     {
-      "brand": "火影",
-      "model": "T6A 2023 锐龙版",
+      "brand": "联想",
+      "model": "拯救者R700P 2025",
       "screenSize": 16,
-      "thickness": 27.4,
-      "weight": 2.41,
+      "thickness": 26.3,
+      "weight": 2.36,
       "advantages": [
+        "散热优秀",
+        "键盘布局合理",
+        "屏幕素质较高"
       ],
       "disadvantages": [
-        "[核心温度高]{.bad}",
-        "[键盘面温度高]{.bad}",
-        "键盘打字手感差",
-        "做工质感粗糙"
+        "[无USB4接口]{.bad}",
+        "机身易粘指纹",
+        "轻载下风扇启动频繁",
+        "[轻微溢价 建议有国补和券再考虑]{.bad}"
       ],
       "display": {
         "resolution": "2560x1600",
-        "refreshRate": 165,
-        "coverage": "100% sRGB",
-        "brightness": "350nits"
+        "refreshRate": 240,
+        "coverage": "100%DCI P3",
+        "brightness": "[542nits]{.good}"
       },
-      "cpu": "锐龙 R7 7435H(无核显)",
-      "gpu": "RTX 4060 8G",
-      "memory": "DDR5 4800 [24G]{.very-good}",
+      "cpu": "锐龙 R9 8945HX",
+      "gpu": "RTX 5060 115W",
+      "memory": "DDR5 5200 16G",
       "storage": {
         "type": "NVMe",
         "capacity": "1TB",
         "interface": "双 2280"
       },
-      "price": 5294,
-      "url": "https://detail.tmall.com/item.htm?id=619738792555&skuId=5690815042466",
-      "image": "/images/recommendation/laptop/gaming/火影-T6A 2023 锐龙版.jpeg"
-    },
-    {
-      "brand": "宏碁",
-      "model": "掠夺者·擎Neo 2023",
-      "screenSize": 16,
-      "thickness": 27,
-      "weight": 2.6,
-      "advantages": [
-        "[键盘面温度低]{.good}",
-        "[液金双刃剑]{.attention}"
-      ],
-      "disadvantages": [
-        "[电源键位置不合理]{.bad}"
-      ],
-      "display": {
-        "resolution": "2560x1600 :vary-chip{to=\"1920x1200\" cost=-200}",
-        "refreshRate": 165,
-        "coverage": "100% sRGB",
-        "brightness": "[500nits]{.good}"
-      },
-      "cpu": "[酷睿 i5 13500HX(酷睿 i9 13900HX+1k)]{.bad}",
-      "gpu": "RTX 4060 8G",
-      "memory": "DDR5 4800 16G",
-      "storage": {
-        "type": "NVMe",
-        "capacity": "[512GB]{.bad} :vary-chip{to=\"1TB\" cost=200}",
-        "interface": "双 2280"
-      },
-      "price": 5898,
-      "url": "https://item.jd.com/10070812395927.html",
-      "image": "/images/recommendation/laptop/gaming/宏碁-掠夺者·擎Neo 2023.png"
+      "price": 7199,
+      "url": "https://item.jd.com/100226110098.html#none",
+      "image": "/images/recommendation/laptop/gaming/联想拯救者R7000.png"
     },
     {
       "brand": "惠普",
-      "model": "暗影精灵 乐享版",
-      "screenSize": 16.1,
-      "thickness": 20,
-      "weight": 2.29,
+      "model": "惠普 OMEN 暗影精灵11 锐龙版",
+      "screenSize": 16,
+      "thickness": 28.9,
+      "weight": 2.38,
       "advantages": [
-        "[一线品牌]{.good}"
+        "[键盘面温度低]{.good}",
+        "[散热音量控制表现较好]{.attention}"
+      ],
+      "disadvantages": [
+        "[电源键位置诡异]{.bad}",
+        "[屏幕下边框较宽]{.bad}",
+        "[半高方向键]{.bad}"
+      ],
+      "display": {
+        "resolution": "2560x1600}",
+        "refreshRate": 240,
+        "coverage": "100% sRGB",
+        "brightness": "[635nits]{.good}"
+      },
+      "cpu": "R9 8945HX",
+      "gpu": "RTX 5060/70，+800",
+      "memory": "DDR5 5200 16G",
+      "storage": {
+        "type": "NVMe",
+        "capacity": "1TB",
+        "interface": "双 2280"
+      },
+      "price": 6319,
+      "url": "https://item.jd.com/100213107592.html#switch-sku",
+      "image": "/images/recommendation/laptop/gaming/惠普精灵.png"
+    },
+    {
+      "brand": "机械革命",
+      "model": "蛟龙16Pro",
+      "screenSize": 16,
+      "thickness": 26.6,
+      "weight": 2.49,
+      "advantages": [
+        "USB口有4个，虽然都是2.0",
+        "屏幕素质不错"
         
       ],
       "disadvantages": [
-        "[全塑料机身]{.bad}",
-        "[屏幕下巴偏大]{.bad}"
+        "满载键盘烫手并且噪音较大",
+        "[CPU空载功率较高]{.bad}"
 
       ],
       "display": {
-        "resolution": "2560x1440",
+        "resolution": "2560x1600",
         "refreshRate": 240,
         "coverage": "100% sRGB",
-        "brightness": "[322nits]{.bad}"
+        "brightness": "[550nits]{.good}"
       },
-      "cpu": "[酷睿 i7 14650HX]{.bad}",
-      "gpu": "RTX 4060 8G",
-      "memory": "DDR5 5600 16G",
-      "storage": {
-        "type": "NVMe",
-        "capacity": "[512GB]{.bad} :vary-chip{to=\"1TB\" cost=300}",
-        "interface": "双 2280"
-      },
-      "price": 5999,
-      "url": "https://item.jd.com/10108958329393.html",
-      "image": "/images/recommendation/laptop/gaming/惠普-暗影精灵 乐享版.png"
-    },
-    {
-      "brand": "联想",
-      "model": "拯救者 R9000p 2023",
-      "screenSize": 16,
-      "thickness": 27,
-      "weight": 2.5,
-      "advantages": [
-      ],
-      "disadvantages": [
-        "[键盘面温度高]{.bad}",
-        "[低端固态硬盘]{.bad}"
-      ],
-      "display": {
-        "resolution": "2560x1600",
-        "refreshRate": 165,
-        "coverage": "100% sRGB",
-        "brightness": "[500nits]{.good}"
-      },
-      "cpu": "锐龙 R9 7945HX",
-      "gpu": "RTX 4060 8G",
+      "cpu": "R9 7845HX",
+      "gpu": "RTX 5060",
       "memory": "DDR5 5200 16G",
       "storage": {
         "type": "NVMe",
         "capacity": "1TB",
         "interface": "双 2280"
       },
-      "price": 7839,
-      "url": "https://item.lenovo.com.cn/product/1036321.html",
-      "image": "/images/recommendation/laptop/gaming/联想-拯救者 R9000p 2023.png"
+      "price": 5439,
+      "url": "https://item.jd.com/10156676311487.html",
+      "image": "/images/recommendation/laptop/gaming/蛟龙16.png"
     },
     {
-      "brand": "微星",
-      "model": "神影 16",
+      "brand": "机械师",
+      "model": "曙光16S",
       "screenSize": 16,
-      "thickness": 31,
-      "weight": 2.62,
+      "thickness": 26.8,
+      "weight": 2.53,
       "advantages": [
+        "性能释放激进",
+        "满载噪音较小",
+        "5070 Ti中性价比较高"
       ],
       "disadvantages": [
-        "[色彩管理不成熟]{.bad}",
-        "[核心温度高]{.bad}",
         "[键盘面温度高]{.bad}",
-        "机身做工质感粗糙"
+        "[单16G内存]{.bad}",
+        "[联发科MT7920网卡不支持160MHz频宽]{.bad}"
       ],
       "display": {
         "resolution": "2560x1600",
-        "refreshRate": 240,
-        "coverage": "100% P3",
-        "brightness": "[500nits]{.good}"
+        "refreshRate": 300,
+        "coverage": "100% sRGB",
+        "brightness": "[624nits]{.good}"
       },
-      "cpu": "[酷睿 i7 14700HX]{.bad}",
-      "gpu": "RTX 4060 8G",
-      "memory": "DDR5 5600 16G",
+      "cpu": "锐龙 R9 7945HX",
+      "gpu": "RTX 5070 Ti 140W",
+      "memory": "DDR5 5200 16G",
       "storage": {
         "type": "NVMe",
         "capacity": "1TB",
         "interface": "双 2280"
       },
-      "price": 7839,
-      "url": "https://www.msi.cn/Laptop/Crosshair-16-HX-D14VX",
-      "image": "/images/recommendation/laptop/gaming/微星-神影 16.png"
+      "price": 7999,
+      "url": "https://item.jd.com/100152429309.html",
+      "image": "/images/recommendation/laptop/gaming/机械师.png"
+    },
+    {
+      "brand": "华硕",
+      "model": "天选Air 2025",
+      "screenSize": 16,
+      "thickness": 19.9,
+      "weight": 1.45,
+      "advantages": [
+        "轻",
+        "有性能释放且噪音和散热控制可以"
+      ],
+      "disadvantages": [
+        "[色准表现不佳]{.bad}",
+        "机身做工质感粗糙，C面塑料感强"
+      ],
+      "display": {
+        "resolution": "2560x1600",
+        "refreshRate": 165,
+        "coverage": "100%sRGB",
+        "brightness": "460nits"
+      },
+      "cpu": "R7 H 260/AI 7 H 350 ，+200",
+      "gpu": "RTX 5060 110W",
+      "memory": "LPDDR5x 7500 32G",
+      "storage": {
+        "type": "NVMe",
+        "capacity": "1TB",
+        "interface": "双 2280"
+      },
+      "price": 7599,
+      "url": "https://item.jd.com/100228440454.html",
+      "image": "/images/recommendation/laptop/gaming/华硕天选.png"
     },
     {
       "brand": "联想",
-      "model": "ThinkBook16p 2024",
+      "model": "ThinkBook16p 2025",
       "screenSize": 16,
-      "thickness": 23,
-      "weight": 2.22,
+      "thickness": 23.5,
+      "weight": 2.11,
       "advantages": [
-        "[极其稀有的商务外观]{.very-good}",
-        "[金属机身质感优秀]{.good}",
-        "[接口数量、种类齐全]{.good}",
-        "机身较为轻薄",
+        "[稀有的商务外观，金属质感]{.very-good}",
+        "[屏幕素质高，支持色域切换]{.good}",
         "风扇噪音相对较低"
       ],
       "disadvantages": [
-        "[缺角屏]{.very-bad}适配差，BUG多",
-        "[色彩管理BUG多]{.bad}",
-        "键盘打字手感差"
+        "[只有HDMI支持独显输出]{.very-bad}",
+        "[高负载下c面温度高]{.bad}",
+        "适配器有点重，901g"
       ],
       "display": {
-        "resolution": "3200x2000",
-        "refreshRate": 165,
-        "coverage": "100% P3",
+        "resolution": "2650x1600",
+        "refreshRate": 240,
+        "coverage": "100%DCI P3",
         "brightness": "430nits"
       },
-      "cpu": "[酷睿 i7 14700HX]{.bad}",
-      "gpu": "RTX 4060 8G",
-      "memory": "DDR5 5200 16G",
+      "cpu": "[酷睿 Ultra 9 275HX]{.good}",
+      "gpu": "RTX 5070 Laptop 115W",
+      "memory": "DDR5 6400 32G",
       "storage": {
         "type": "NVMe",
-        "capacity": "1TB",
+        "capacity": "2TB",
         "interface": "双 2280"
       },
-      "price": 9499,
-      "url": "https://www.thinkpad.com/device/thinkbook-16p-2024",
-      "image": "/images/recommendation/laptop/gaming/联想-ThinkBook16p 2024.png"
+      "price": 11999,
+      "url": "https://item.jd.com/100226649670.html#switch-sku",
+      "image": "/images/recommendation/laptop/gaming/联想thinkbook.png"
     }
   ]
 }
