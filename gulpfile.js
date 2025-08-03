@@ -221,18 +221,13 @@ gulp.task("slidev-dev", (cb) => {
 });
 
 gulp.task("slidev-export", (cb) => {
-  exec("slidev export", (err, stdout, stderr) => {
-    if (err) {
-      console.error(`执行slidev export时出错: ${err}`);
-      cb(err);
-      return;
-    }
-    console.log(`stdout: ${stdout}`);
-    console.error(`stderr: ${stderr}`);
-    cb();
+  exec("slidev export --range 1-20 --timeout 60000", (err1) => {
+    if (err1) return cb(err1);
+    exec("slidev export --range 21-40 --timeout 60000", (err2) => {
+      cb(err2);
+    });
   });
 });
-
 
 
 gulp.task("pre", gulp.series("generate-laptop-recommendation-pages"));
