@@ -27,7 +27,7 @@ layout: section
 ### 型号选择
 存储容量推荐：主力手机存储容量的一半
 
-一般推荐：128GB
+一般推荐：至少128GB
 
 内存：如果对多个程序同时运行有需求，比如后台挂游戏，
 可以考虑 12GB 内存
@@ -55,7 +55,7 @@ dim: true
 
 ---
 layout: cols
-background: /images/recommendation/tablet/matepad11.5_柔光版.webp
+background: /images/recommendation/tablet/magicpad.png
 dim: false
 ---
 
@@ -68,18 +68,16 @@ p {
 ::0::
 
 ::1::
-HUAWEI MatePad 11.5S
+荣耀MagicPad 3
 
-屏幕尺寸：11英寸 :vary-chip{to="11英寸 柔光版" cost=300}
-内存及存储：8GB+128GB :vary-chip{to="8GB+256GB" cost=200}
+屏幕：13.3英寸 LCD 3.2K 165Hz
+内存及存储：8GB+256GB
 
 选配配件：
-- :vary-chip{to="电容笔" cost=500}
-- :vary-chip{to="键盘保护套" cost=500}
+- :vary-chip{to="电容笔" cost=399}
+- :vary-chip{to="键盘" cost=599}
 
-参考价格: [￥2100]{.text-red-500 .text-4xl}
-
-问题：性能比较一般，原神，崩坏：星穹铁道等对性能需求较高的游戏帧数较低
+参考价格: [￥2549]
 
 ---
 layout: cols

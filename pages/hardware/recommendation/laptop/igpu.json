@@ -25,12 +25,12 @@
         "brightness": "398nits"
       },
       "cpu": "酷睿5 220H",
-      "gpu": "Intel Xe",
+      "gpu": "Intel Graphics 80EU",
       "memory": "DDR5 5200 16G",
       "storage": {
         "type": "NVMe",
         "capacity": "1TB",
-        "interface": "2280"
+        "interface": "2242+2280"
       },
       "price": 3999,
       "url": "https://item.jd.com/100167040923.html",
@@ -64,7 +64,7 @@
       "storage": {
         "type": "NVMe",
         "capacity": "1TB",
-        "interface": "2280"
+        "interface": "2280+2280"
       },
       "price": 3199,
       "url": "https://item.jd.com/100222895582.html",
@@ -98,7 +98,7 @@
       "storage": {
         "type": "NVMe",
         "capacity": "1TB",
-        "interface": "2280"
+        "interface": "2242+2242"
       },
       "price": 4999,
       "url": "https://item.jd.com/100143490685.html",
@@ -162,7 +162,7 @@
       "storage": {
         "type": "NVMe",
         "capacity": "1TB",
-        "interface": "[双 2280]{.good}"
+        "interface": "2280+2242"
       },
       "price": 5039,
       "url": "https://item.jd.com/100186215392.html",
